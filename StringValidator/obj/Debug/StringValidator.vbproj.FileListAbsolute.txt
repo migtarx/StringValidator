@@ -1,0 +1,10 @@
+C:\Users\Land Defender\source\repos\StringValidator\StringValidator\bin\Debug\StringValidator.dll
+C:\Users\Land Defender\source\repos\StringValidator\StringValidator\bin\Debug\StringValidator.pdb
+C:\Users\Land Defender\source\repos\StringValidator\StringValidator\bin\Debug\StringValidator.xml
+C:\Users\Land Defender\source\repos\StringValidator\StringValidator\obj\Debug\StringValidator.vbprojAssemblyReference.cache
+C:\Users\Land Defender\source\repos\StringValidator\StringValidator\obj\Debug\StringValidator.Resources.resources
+C:\Users\Land Defender\source\repos\StringValidator\StringValidator\obj\Debug\StringValidator.vbproj.GenerateResource.cache
+C:\Users\Land Defender\source\repos\StringValidator\StringValidator\obj\Debug\StringValidator.vbproj.CoreCompileInputs.cache
+C:\Users\Land Defender\source\repos\StringValidator\StringValidator\obj\Debug\StringValidator.dll
+C:\Users\Land Defender\source\repos\StringValidator\StringValidator\obj\Debug\StringValidator.xml
+C:\Users\Land Defender\source\repos\StringValidator\StringValidator\obj\Debug\StringValidator.pdb

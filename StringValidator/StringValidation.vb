@@ -1,4 +1,4 @@
-﻿Public Class StringValidation
+﻿Public Class 
     ''' <summary>
     ''' Checks if the entered string matches the valid characters set.
     ''' </summary>
