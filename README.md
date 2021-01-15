@@ -1,4 +1,4 @@
-# StringValidaor
+# StringValidator
 Allows to filter string by given characters
 ## Table of contents
 * [General info](#general-info)
